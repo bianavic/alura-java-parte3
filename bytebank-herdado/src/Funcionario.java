@@ -3,6 +3,7 @@
 // Super class
 // abstrato
 // METODOS E ATRIBUTOS definidos na classe mae
+// nao pode instanciar esta classe, pq é abstrata
 public abstract class Funcionario {
         private String nome;
         private String cpf;
@@ -14,10 +15,9 @@ public abstract class Funcionario {
 //
 //        }
 
-        // esta é a assinatura do metodo
-        public double getBonificacao() {
-            return this.salario * 0.05; // esta é a bonificacao PADRAO
-        }
+        // Como não podemos ter um método concreto, o declararemos como abstrato
+        // Metodo sem corpo, nao ha implementacao
+        public abstract double getBonificacao();
 
         public String getNome() {
             return nome;
