@@ -1,8 +1,9 @@
 // Parent class
 // base class
 // Super class
+// abstrato
 // METODOS E ATRIBUTOS definidos na classe mae
-public class Funcionario {
+public abstract class Funcionario {
         private String nome;
         private String cpf;
         // PROTECTED = publico para os FILHOS
