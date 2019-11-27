@@ -38,7 +38,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.TesteContas">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="bytebank-herdado-conta" />
@@ -49,6 +49,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TesteContas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TesteContas" />
+      <module name="bytebank-herdado-conta" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TesteContas" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -62,6 +74,9 @@
       <updated>1574785088951</updated>
       <workItem from="1574785100609" duration="515000" />
       <workItem from="1574786856969" duration="2373000" />
+      <workItem from="1574801630758" duration="334000" />
+      <workItem from="1574854926607" duration="4557000" />
+      <workItem from="1574879269467" duration="233000" />
     </task>
     <servers />
   </component>
