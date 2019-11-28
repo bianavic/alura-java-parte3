@@ -9,7 +9,12 @@ public class ContaCorrente extends Conta {
         super(agencia, numero);
     }// criamos construtor ESPECIFICO - nao existe construtor padrao
 
-        // redefinir o comportamento deste metodo com override (@Override é uma a notacao)
+    @Override
+    public void deposita(double valor) {
+        super.saldo += valor;
+    }
+
+    // redefinir o comportamento deste metodo com override (@Override é uma a notacao)
         @Override
         public boolean saca(double valor){
             double valorASacar = valor + 0.2;
