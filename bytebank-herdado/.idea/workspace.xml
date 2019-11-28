@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5a1a4db-bd14-479a-8a39-4740ce8cdb4a" name="Default Changelist" comment="" />
+    <list default="true" id="b5a1a4db-bd14-479a-8a39-4740ce8cdb4a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/AluraProjects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/AluraProjects.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bytebank-herdado/ControleBonificacao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/bytebank-herdado/ControleBonificacao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bytebank-herdado/Design.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/bytebank-herdado/Design.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bytebank-herdado/EditorVideo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/bytebank-herdado/EditorVideo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bytebank-herdado/Funcionario.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/bytebank-herdado/Funcionario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bytebank-herdado/Gerente.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/bytebank-herdado/Gerente.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bytebank-herdado/TesteFuncionario.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/bytebank-herdado/TesteFuncionario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bytebank-herdado/TesteReferencias.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/bytebank-herdado/TesteReferencias.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EditorVideo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EditorVideo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Funcionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gerente.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,6 +115,7 @@
       <workItem from="1574692013237" duration="104000" />
       <workItem from="1574770502708" duration="6016000" />
       <workItem from="1574880329768" duration="136000" />
+      <workItem from="1574952807665" duration="507000" />
     </task>
     <servers />
   </component>

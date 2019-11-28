@@ -1,23 +1,18 @@
-// Parent class
-// base class
-// Super class
-// abstrato
+
 // METODOS E ATRIBUTOS definidos na classe mae
-// nao pode instanciar esta classe, pq é abstrata
+// ABSTRACT NA CLASSE => nao pode instanciar objetos desta classe, pq é abstrata, deixou de ser concreto
+// a heranca continua
 public abstract class Funcionario {
         private String nome;
         private String cpf;
         // PROTECTED = publico para os FILHOS
         private double salario; // MODIFICADOR de visibilidade
 
-        // criar construtor (qdo construtor nao é criado, o compilador insere automaticamente o construtor padrao.
-//        public Funcionario() {
-//
-//        }
-
+        // ABSTRACT NO METODO => sem corpo, nao ha implementacao. OBRIGA os filhos a implementar esse metodo abstrato.
         // Como não podemos ter um método concreto, o declararemos como abstrato
-        // Metodo sem corpo, nao ha implementacao
-        public abstract double getBonificacao();
+        public double getBonificacao() {
+            return 0;
+        }
 
         public String getNome() {
             return nome;
