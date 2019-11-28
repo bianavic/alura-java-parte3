@@ -2,7 +2,7 @@ public class ControleBonificacao {
 
     private double soma;
 
-    public void registra(Funcionario f) { // mesmo com referencia generica (tipo funcionario), ao executar o codigo sempre sera chamado o metodo especifico
+    public void registra(Funcionario f) {
         double boni = f.getBonificacao();
         this.soma = this.soma + boni;
     }

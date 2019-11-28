@@ -3,6 +3,7 @@
 // ABSTRACT NA CLASSE => nao pode instanciar objetos desta classe, pq é abstrata, deixou de ser concreto
 // a heranca continua
 public abstract class Funcionario {
+
         private String nome;
         private String cpf;
         // PROTECTED = publico para os FILHOS
