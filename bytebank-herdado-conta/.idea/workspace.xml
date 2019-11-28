@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d028d0b-0698-4b24-8264-b02f4db4b8f2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/AluraProjects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/AluraProjects.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Conta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ContaCorrente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ContaCorrente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ContaPoupanca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ContaPoupanca.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -89,7 +84,7 @@
       <workItem from="1574801630758" duration="334000" />
       <workItem from="1574854926607" duration="4557000" />
       <workItem from="1574879269467" duration="233000" />
-      <workItem from="1574953399035" duration="1374000" />
+      <workItem from="1574953399035" duration="1945000" />
     </task>
     <servers />
   </component>
