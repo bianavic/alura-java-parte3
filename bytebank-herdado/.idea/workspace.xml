@@ -2,16 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5a1a4db-bd14-479a-8a39-4740ce8cdb4a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Administrador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FuncionarioAutenticavel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SistemaInterno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TesteSistema.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Autenticavel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cliente.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bytebank-herdado/Administrador.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/bytebank-herdado/Administrador.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bytebank-herdado/Design.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bytebank-herdado/EditorVideo.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/bytebank-herdado/Funcionario.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/bytebank-herdado/Funcionario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bytebank-herdado/FuncionarioAutenticavel.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/bytebank-herdado/Gerente.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/bytebank-herdado/Gerente.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ControleBonificacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ControleBonificacao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bytebank-herdado/SistemaInterno.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/bytebank-herdado/SistemaInterno.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bytebank-herdado/TesteFuncionario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bytebank-herdado/TesteGerente.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/bytebank-herdado/TesteGerente.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bytebank-herdado/TesteSistema.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/bytebank-herdado/TesteSistema.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Administrador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Administrador.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Funcionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FuncionarioAutenticavel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FuncionarioAutenticavel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Gerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gerente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SistemaInterno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SistemaInterno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TesteGerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TesteGerente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TesteSistema.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TesteSistema.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -120,7 +131,9 @@
       <workItem from="1574770502708" duration="6016000" />
       <workItem from="1574880329768" duration="136000" />
       <workItem from="1574952807665" duration="507000" />
-      <workItem from="1574960976179" duration="5008000" />
+      <workItem from="1574960976179" duration="5641000" />
+      <workItem from="1575287776874" duration="6341000" />
+      <workItem from="1575332465973" duration="1330000" />
     </task>
     <servers />
   </component>
@@ -139,5 +152,15 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Gerente.java</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

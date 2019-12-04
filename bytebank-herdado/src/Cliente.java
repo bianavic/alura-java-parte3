@@ -1,14 +1,11 @@
-public class Administrador extends Funcionario implements Autenticavel {
+public class Cliente extends Funcionario implements Autenticavel {
 
     private int senha;
-
-    public  double getBonificacao() {
-
-    }
 
     // implementando metodos concretos
     @Override
     public void setSenha(int senha) {
+
         this.senha = senha;
     }
 
@@ -20,5 +17,4 @@ public class Administrador extends Funcionario implements Autenticavel {
             return false;
         }
     }
-
 }

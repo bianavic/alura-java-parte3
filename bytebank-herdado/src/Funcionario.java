@@ -39,4 +39,8 @@ public abstract class Funcionario {
             this.salario = salario;
         }
 
-    }
+    // implementando metodos concretos
+    public abstract void setSenha(int senha);
+
+    public abstract boolean autentica(int senha);
+}
