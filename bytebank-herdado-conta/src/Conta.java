@@ -37,8 +37,8 @@ public abstract class Conta {
     }
 
     public boolean transfere(double valor, Conta destino) {
-        if(this.saca(valor)) {
-            destino.deposita(valor);
+        if(this.saca(valor)) { // this.saca: chamamos o metodo 'saca' com o 'valor'
+            destino.deposita(valor); // this é referencia
             return true;
         } else {
             return false;
