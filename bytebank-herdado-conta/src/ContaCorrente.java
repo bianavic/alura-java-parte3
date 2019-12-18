@@ -11,7 +11,7 @@ public class ContaCorrente extends Conta {
 
     @Override  // redefinir o comportamento
     public void deposita(double valor) {
-        super.saldo += valor;
+        super.saldo += valor; // alterando para protected na classe maos, usamos o super para conseguir chama-lo
     }
 
         @Override // redefinir o comportamento da classe mae, conta, com override

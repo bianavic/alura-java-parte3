@@ -1,3 +1,4 @@
+// classe abstrata pode ter atributo, construtor (onde o fiulho pode chama-lo) e metodos concretos
 public abstract class Conta {
 
     protected double saldo;
@@ -20,7 +21,8 @@ public abstract class Conta {
         // System.out.println("Estou criando uma conta " + this.numero);
     }
 
-    public abstract void deposita(double valor);
+    public abstract void deposita(double valor); // com abstract nao pode ter implementacao
+    // por isso os filhos sao obrigados a implementar esse metodo
 
 //    codigos abaixo (corpo do metodo) comentados pq com ABSTRACT nao pode ter implementacao
 //    {
