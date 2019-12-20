@@ -14,20 +14,12 @@ public abstract class Conta {
 
     public Conta(int agencia, int numero){
         Conta.total++;
-        // System.out.println("O total de contas é " + Conta.total);
         this.agencia = agencia;
         this.numero = numero;
-        // this.saldo = 100;
-        // System.out.println("Estou criando uma conta " + this.numero);
+
     }
 
-    public abstract void deposita(double valor); // com abstract nao pode ter implementacao
-    // por isso os filhos sao obrigados a implementar esse metodo
-
-//    codigos abaixo (corpo do metodo) comentados pq com ABSTRACT nao pode ter implementacao
-//    {
-//        this.saldo = this.saldo + valor;
-//    }
+    public abstract void deposita(double valor);
 
     public boolean saca(double valor) {
         if(this.saldo >= valor) {
@@ -39,8 +31,8 @@ public abstract class Conta {
     }
 
     public boolean transfere(double valor, Conta destino) {
-        if(this.saca(valor)) { // this.saca: chamamos o metodo 'saca' com o 'valor'
-            destino.deposita(valor); // this é referencia
+        if(this.saca(valor)) {
+            destino.deposita(valor);
             return true;
         } else {
             return false;
